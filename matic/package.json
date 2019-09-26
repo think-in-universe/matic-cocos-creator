@@ -1,0 +1,16 @@
+{
+    "name": "matic",
+    "version": "0.0.1",
+    "beta": false,
+    "description": "Matic for Cocos Creator",
+    "main": "main.js",
+    "author": "Matic Network",
+    "main-menu": {
+        "i18n:MAIN_MENU.package.title/Matic/Install": {
+            "message": "matic:install"
+        },
+        "i18n:MAIN_MENU.package.title/Matic/Help": {
+            "message": "matic:help"
+        }
+    }
+}
