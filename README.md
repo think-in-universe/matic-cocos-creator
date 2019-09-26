@@ -44,6 +44,11 @@ That's it! Now you can start use matic.js methods to bring blockchain capability
 
 To learn more about Matic Network, check out the document here: https://docs.matic.network
 
+## Game Development Tutorials
+
+For game developers who want to start with Matic and Cocos, you might be interested to check out [Matic Cosos Starter Kit](https://github.com/think-in-universe/matic-cocos-starter-kit) to speed up the environment setup and game development. 
+
+
 ## Versions Mapping
 
 | Matic Plugin for Cocos Creator | Matic.js |
