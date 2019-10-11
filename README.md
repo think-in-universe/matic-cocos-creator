@@ -30,7 +30,7 @@ A recommended way to add the plugin is via git submodule, e.g.
 git submodule add https://github.com/think-in-universe/matic-cocos-creator <project>/packages/matic
 ```
 
-2. Open the Cocos Creator project, and you'll find the `Matic` menu item understand `Extension` menu. Click `install` to install the plugin.
+2. Open the Cocos Creator project, and you'll find the `Matic` menu item under the `Extension` menu. Click `install` to install the plugin.
 
 ![image](https://user-images.githubusercontent.com/46699230/65697412-76497380-e0ad-11e9-9444-54da373d12c1.png)
 
